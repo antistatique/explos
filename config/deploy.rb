@@ -12,7 +12,7 @@ set :stages,          %w(dev prod)
 set :scm,            "git"
 set :repository,     "git@github.com:zufrieden/explos.git"
 
-set :domain,         "ligue.alwaysdata.net"
+set :domain,         "ssh-ligue.alwaysdata.net"
 
 set :user,           "ligue"
 set :group,          "ligue"
